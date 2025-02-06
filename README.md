@@ -9,4 +9,6 @@
 - [x] Make sure sort order is consistent
 - [x] Add delete
 - [ ] Folder deletions
-- [ ] Real homepage + onboarding
+- [x] Real homepage + onboarding
+- [ ] Folder creations
+- [ ] Access control
