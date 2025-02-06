@@ -7,5 +7,6 @@
 - [x] Add file uploading
 - [x] Add analytics
 - [x] Make sure sort order is consistent
-- [ ] Add delete
+- [x] Add delete
+- [ ] Folder deletions
 - [ ] Real homepage + onboarding
